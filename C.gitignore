@@ -36,6 +36,8 @@
 *.x86_64
 *.hex
 
+sudoku
+
 # Debug files
 *.dSYM/
 *.su
